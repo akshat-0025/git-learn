@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Vite
+          Learn React with Vite helllooooo
         </a>
       </header>
     </div>
